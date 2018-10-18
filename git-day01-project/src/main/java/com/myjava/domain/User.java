@@ -5,6 +5,8 @@ public class User {
 
     private String password;
 
+    private String address;
+
 
     @Override
     public String toString() {
